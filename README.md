@@ -1,11 +1,13 @@
 # Git-Setup
 Setup information for GIT
 
-A repository is a directory
-Fork: a copy of a directory
+Git readme: new lines should end with double spaces to be readable  
+
+A repository is a directory  
+Fork: a copy of a directory  
 Branch: a local copy of a directory where you will do your work
 
-The original repository will be refered to as upstream when you view it from the fork point perspective.
+The original repository will be refered to as upstream when you view it from the fork point perspective.  
 The master branch can also be refered to as upstream in comparison to a created branch.
 
 Install Git on windows: git-scm.com/
@@ -18,9 +20,9 @@ Update branch with fork (repository) : https://stackoverflow.com/questions/16329
 
 
 
-Git setup with IntelliJ
+Git setup with IntelliJ  
 (Need to install IntelliJ + Git)
 
-Under settings -> Tools -> Terminal -> Shell path  "C:\Program Files\Git\bin\sh.exe" --login -i
+Under settings -> Tools -> Terminal -> Shell path  "C:\Program Files\Git\bin\sh.exe" --login -i  
 Under settings -> Version Control -> Git -> Path to Git executable: C:\Program Files\Git\bin\git.exe
 
